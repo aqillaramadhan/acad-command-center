@@ -5,9 +5,9 @@
 ## 🌐 Live Web Application
 **[👉 Click here to access the Command Center 👈](<https://acad-command-center-2kzh2hkkkxmertqhchagb6.streamlit.app/>)**
 
-<img width="1920" height="1080" alt="Cuplikan layar 2026-03-27 123015" src="https://github.com/user-attachments/assets/cdcd1ad3-1f48-4457-a5dd-c465f8fc720f" />
+<img width="1920" height="1080" alt="Cuplikan layar 2026-03-27 125145" src="https://github.com/user-attachments/assets/97843fbc-c094-4128-8d9b-73e9297876c2" />
+<img width="1920" height="1080" alt="Cuplikan layar 2026-03-27 125201" src="https://github.com/user-attachments/assets/cd6af530-07a1-4da6-971e-1ac32815ff6f" />
 
-<img width="1920" height="1080" alt="Cuplikan layar 2026-03-27 123029" src="https://github.com/user-attachments/assets/79cfa6b8-efe5-41e0-882b-b7a124d38559" />
 
 ## 📖 Project Overview
 The **Academic Command Center** is an interactive, executive-level dashboard designed for real-time monitoring of student academic performance and attendance. Built with a modern, dark-glassmorphism UI, this tool transforms raw academic data into actionable insights for educational stakeholders.
